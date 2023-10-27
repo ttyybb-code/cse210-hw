@@ -1,5 +1,6 @@
 using System;
 
+//to exceed requirements, I made it so that the program cannot hide a word twice.
 class Program
 {
     static void Main(string[] args)
